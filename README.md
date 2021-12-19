@@ -1,3 +1,4 @@
+[![pytest with Github Actions](https://github.com/khan2a/python-repo/actions/workflows/pytest-main.yml/badge.svg)](https://github.com/khan2a/python-repo/actions/workflows/pytest-main.yml)
 # python-repo
 First let's create a virtual environment
 which virtualenv
