@@ -35,3 +35,8 @@ git status
 git add *
 git commit -m "adding initial layout of python project"
 git push
+git pull
+
+Github Actions file:
+https://github.com/khan2a/python-repo/blob/main/.github/workflows/pytest-main.yml
+Copy/paste the badge from Action > Run workflow to Readme.md
