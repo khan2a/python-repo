@@ -67,3 +67,4 @@ cloudshell: git clone git@github.com:khan2a/python-repo.git
 Same for cloud9
 
 CodeBuild in AWS is equivalent to Github Actions
+uses buildspec.yml for Github Actions
