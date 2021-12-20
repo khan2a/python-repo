@@ -1,5 +1,5 @@
 [![pytest with Github Actions](https://github.com/khan2a/python-repo/actions/workflows/pytest-main.yml/badge.svg)](https://github.com/khan2a/python-repo/actions/workflows/pytest-main.yml)
-[![pytest with AWS CodeBuild (https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiNTdoSGE4UGRvcWhDZDI2dGVMV294S2UrK0FOaUgwMU5zaWdjc25HTGFzdEZZaVgzMFJyTm9ZQ3ZxTjZ1eXd6VFMyNDFxaHNsN3pvcERQdXE5M29mUUV3PSIsIml2UGFyYW1ldGVyU3BlYyI6IlVYOEhMVjVsM01KellIcXoiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
+[![pytest with Github Actions]](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiNTdoSGE4UGRvcWhDZDI2dGVMV294S2UrK0FOaUgwMU5zaWdjc25HTGFzdEZZaVgzMFJyTm9ZQ3ZxTjZ1eXd6VFMyNDFxaHNsN3pvcERQdXE5M29mUUV3PSIsIml2UGFyYW1ldGVyU3BlYyI6IlVYOEhMVjVsM01KellIcXoiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
 # python-repo
 First let's create a virtual environment
 
