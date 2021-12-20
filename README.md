@@ -32,6 +32,7 @@ To do all at once:
 make all
 
 Push the code:
+git pull
 git status
 git add *
 git commit -m "adding initial layout of python project"
